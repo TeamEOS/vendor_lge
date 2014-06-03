@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-# LGE blob(s) necessary for Mako hardware
+# All blob(s) necessary for Mako hardware
 PRODUCT_COPY_FILES := \
     vendor/lge/mako/proprietary/libacdbdata.so:system/lib/libacdbdata.so:lge \
     vendor/lge/mako/proprietary/libAKM.so:system/lib/libAKM.so:lge \
