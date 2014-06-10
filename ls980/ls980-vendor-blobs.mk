@@ -68,6 +68,8 @@ PRODUCT_COPY_FILES += \
     vendor/lge/ls980/proprietary/lib/hw/camera.vendor.msm8974.so:system/lib/hw/camera.vendor.msm8974.so \
     vendor/lge/ls980/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
     vendor/lge/ls980/proprietary/lib/hw/gps.msm8974.so:system/lib/hw/gps.msm8974.so \
+    vendor/lge/ls980/proprietary/lib/hw/nfc.default.so:system/lib/hw/nfc.default.so \
+    vendor/lge/ls980/proprietary/lib/hw/nfc.lg.so:system/lib/hw/nfc.lg.so \
     vendor/lge/ls980/proprietary/lib/libadsprpc.so:system/lib/libadsprpc.so \
     vendor/lge/ls980/proprietary/lib/libdrmdiag.so:system/lib/libdrmdiag.so \
     vendor/lge/ls980/proprietary/lib/libdrmfs.so:system/lib/libdrmfs.so \
